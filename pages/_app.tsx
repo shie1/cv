@@ -32,7 +32,7 @@ export default function App({Component, pageProps}: AppProps) {
     const [darkMode, setDarkMode] = useState(false);
     const print = useMediaQuery("print")
 
-    return (
+    return (<>
         <DarkMode.Provider value={{darkMode, setDarkMode}}>
             <ThemeProvider theme={theme(darkMode && !print ? "dark" : "light")}>
                 <CssBaseline>
@@ -40,5 +40,5 @@ export default function App({Component, pageProps}: AppProps) {
                 </CssBaseline>
             </ThemeProvider>
         </DarkMode.Provider>
-    );
+    </>);
 }
