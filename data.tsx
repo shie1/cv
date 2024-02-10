@@ -40,6 +40,7 @@ export const englishData = {
                 "Lecturing",
                 "Coding",
                 "Digital literacy",
+                "Python",
             ]
         }
     ],
@@ -70,7 +71,7 @@ export const englishData = {
         },
         {
             "name": "menetrendek.info",
-            "description": "A web-based public transport schedule viewer for Hungary. Sadly, the project was discontinued. It was a free alternative to the official BKK and MÁV applications, and it respects your privacy.",
+            "description": "A web-based public transport schedule viewer for Hungary. Sadly, the project was discontinued. It was a free alternative to the official Hungarian public transport schedule websites and apps.",
             "repository": "https://github.com/menetrendek-info/cdata-webmenetrend",
             "startDate": "2022 Sep",
             "endDate": "2023 May",
@@ -97,7 +98,7 @@ export const hungarianData = {
         "C#",
         "Python"
     ],
-    "about": "Mint a Logiscool Kft. oktatója, kódolást és digitális műveltséget tanítok gyerekeknek és tiniknek szórakoztató és vonzó módon. Ebben a szerepben 2023. november óta dolgozom, és több programot és tanfolyamot hoztam létre és szállítottam le, amelyek olyan témákat fednek le, mint a programozási nyelvek, játékfejlesztés és webtervezés. Továbbá coacholtam és mentoráltam más oktatókat, és segítettem nekik fejleszteni tanítási módszereiket és technikáikat. Jelenleg a Székesfehérvári SZC Széchenyi István Műszaki Technikumban szoftverfejlesztés, tesztelés, hibakeresés és karbantartás terén tanulok, ahol szakmai tudásomat bővítem. Szenvedélyem a kódolás és a technológia iránti tudásom és lelkesedésem megosztása a digitális bennszülöttek következő generációjával, és mindig új módokat keresek a tanulás szórakoztató és interaktívá tétele érdekében. Fő kompetenciáim közé tartozik az oktatási coaching, a programkészítés, az előadás és a kódolás.",
+    "about": "Mint a Logiscool Kft. oktatója, kódolást és digitális műveltséget tanítok gyerekeknek és tiniknek szórakoztató módon. Ebben a szerepben 2023. november óta dolgozom, és jelenleg is több csoportot tanítok, amelyek olyan témákat fednek le, mint a programozási nyelvek, játékfejlesztés és webtervezés. Továbbá coacholtam és mentoráltam más oktatókat, és segítettem nekik fejleszteni tanítási módszereiket és technikáikat. Jelenleg a Székesfehérvári SZC Széchenyi István Műszaki Technikumban szoftverfejlesztés, tesztelés, hibakeresés és karbantartás terén tanulok, ahol szakmai tudásomat bővítem. Szenvedélyem a kódolás és a technológia iránti tudásom és lelkesedésem megosztása a digitális bennszülöttek következő generációjával, és mindig új módokat keresek a tanulás szórakoztató és interaktívá tétele érdekében. Fő kompetenciáim közé tartozik az oktatási coaching, a programkészítés, az előadás és a kódolás.",
     "experience": [
         {
             "avatar": "/logiscool.png",
@@ -111,6 +112,7 @@ export const hungarianData = {
                 "Előadás",
                 "Kódolás",
                 "Digitális műveltség",
+                "Python",
             ]
         }
     ],
@@ -141,7 +143,7 @@ export const hungarianData = {
         },
         {
             "name": "menetrendek.info",
-            "description": "Egy webes menetrend néző az országos közösségi közlekedéshez. Sajnos a projektet leállították. Ez egy ingyenes alternatíva volt a hivatalos BKK és MÁV alkalmazásokhoz, és tiszteletben tartja a magánéletedet.",
+            "description": "Egy webes menetrend néző az országos közösségi közlekedéshez. Sajnos már nem üzemel. Ez egy ingyenes alternatíva volt a menetrendek.hu és a MÁV applikációkhoz.",
             "repository": "https://github.com/menetrendek-info/cdata-webmenetrend",
             "startDate": "2022. szept",
             "endDate": "2023. máj",

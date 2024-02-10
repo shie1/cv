@@ -52,6 +52,7 @@ export const ProjectCard = ({project}: { project: Project }) => {
 
     return (<Card sx={{
         maxWidth: 320,
+        pageBreakInside: "avoid",
     }}>
         <CardMedia
             component="img"

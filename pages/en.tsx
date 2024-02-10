@@ -13,7 +13,7 @@ const Home: NextPage = () => {
             display: "flex",
             flexDirection: "column",
             gap: ".5rem",
-            width: "100%"
+            width: "100%",
         }}>
             <Box sx={(theme) => ({
                 display: "flex",
@@ -67,9 +67,7 @@ const Home: NextPage = () => {
                 }} variant={"h4"}>{translations.skills}</Typography>
                 <SkillsList skills={data.skills}/>
             </Box>
-            <Box sx={{
-                pageBreakAfter: "always",
-            }}>
+            <Box>
                 <Typography sx={{
                     borderBottom: "1px solid",
                     color: "text.primary",
