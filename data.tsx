@@ -4,7 +4,7 @@ export const globalData = {
     socials: [
         {icon: <GitHub/>, url: "https://github.com/shie1"},
         {icon: <LinkedIn/>, url: "https://www.linkedin.com/in/bence-sonkoly-219606280"},
-        {icon: <Email/>, url: "mailto:sonkolyw@gmailcom"},
+        {icon: <Email/>, url: "mailto:sonkolyw@gmail.com"},
     ],
 }
 
